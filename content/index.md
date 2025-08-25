@@ -14,10 +14,6 @@ This site is my **digital garden**, a place where I collect and share notes, ide
 I write about topics I encounter in my daily work as a DevOps engineer:
 
 - **Kubernetes & Containerization** – deployments, networking, troubleshooting, and best practices.  
-- **CI/CD Pipelines** – GitHub Actions, GitLab CI, Bitbucket Pipelines, and ArgoCD.  
-- **Observability** – monitoring with Prometheus, Grafana, New Relic, and Datadog.  
-- **Infrastructure as Code (IaC)** – Terraform, Helm, and automation workflows.  
-- **Cloud Platforms** – Google Cloud (GCP), AWS, and Alibaba Cloud.  
 - **Security & Networking** – RBAC, policies, and keeping infra safe & scalable.  
 
 ---
